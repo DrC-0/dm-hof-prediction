@@ -4,6 +4,8 @@
 
 デュエル・マスターズの殿堂発表を予想し、的中率を競い合う Web サイトです。
 
+https://dm-hof-prediction.pages.dev/[https://dm-hof-prediction.pages.dev/]
+
 ## どんなサービス？
 
 殿堂発表の前にカードを予想して投稿 → 発表後に自動採点 → レートで腕を競う。  
