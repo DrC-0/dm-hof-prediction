@@ -21,12 +21,6 @@ export const LoginButton = () => {
     }
   };
 
-  const handleLogout = () => {
-    signOut(auth);
-  };
-
-  // ※ ここではログイン/ログアウト両方のUIを含めていますが、
-  // 後でヘッダー等に分離することも可能です。
   return (
     <div className="flex flex-col items-center gap-2">
       <button
