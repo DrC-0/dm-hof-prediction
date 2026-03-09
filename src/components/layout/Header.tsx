@@ -25,9 +25,10 @@ const Header = ({ user }: HeaderProps) => {
                 className="w-7 h-7 rounded-full"
               />
             )}
-            <span className="text-gray-300 text-sm hidden sm:block">
-              {user.displayName}
-            </span>
+            <div className="hidden sm:flex flex-col items-end leading-tight">
+              <span className="text-gray-300 text-sm">{user.displayName}</span>
+              <span className="text-yellow-400 text-xs font-bold">Rate: 1000</span>
+            </div>
           </div>
           <button
             onClick={() => signOut(auth)}
