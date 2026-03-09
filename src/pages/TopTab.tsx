@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect, useRef, useCallback } from 'react';
 import cardsRaw from '../data/cards_raw.json';
 
 type RegulationFilter = '殿堂' | 'プレミアム殿堂' | '制限なし' | null;
@@ -11,12 +11,16 @@ interface CardEntry {
   regulationStatus: string;
 }
 
+const PAGE_SIZE = 20;
 const allCards: CardEntry[] = cardsRaw as CardEntry[];
 
 const TopTab = () => {
   const [cardName, setCardName] = useState('');
   const [regulationFilter, setRegulationFilter] = useState<RegulationFilter>(null);
   const [imgErrors, setImgErrors] = useState<Set<string>>(new Set());
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const sentinelRef = useRef<HTMLDivElement>(null);
+  const scrollRef = useRef<HTMLDivElement>(null);
 
   const toggleFilter = (filter: RegulationFilter) => {
     setRegulationFilter(prev => prev === filter ? null : filter);
@@ -34,6 +38,34 @@ const TopTab = () => {
       return nameMatch && regMatch;
     });
   }, [cardName, regulationFilter]);
+
+  // フィルタが変わったら表示数をリセット・スクロールを先頭に戻す
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE);
+    if (scrollRef.current) scrollRef.current.scrollLeft = 0;
+  }, [cardName, regulationFilter]);
+
+  const loadMore = useCallback(() => {
+    setVisibleCount(prev => Math.min(prev + PAGE_SIZE, filteredCards.length));
+  }, [filteredCards.length]);
+
+  // センチネル要素（横スクロール末尾）を監視して追加読み込み
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel) return;
+
+    const observer = new IntersectionObserver(
+      entries => {
+        if (entries[0].isIntersecting) loadMore();
+      },
+      { root: scrollRef.current, threshold: 0.1 }
+    );
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [loadMore]);
+
+  const visibleCards = filteredCards.slice(0, visibleCount);
+  const hasMore = visibleCount < filteredCards.length;
 
   return (
     <div className="flex flex-col gap-6">
@@ -53,22 +85,25 @@ const TopTab = () => {
           カード検索
         </h2>
 
-        {/* カード一覧 */}
-        <div className="mb-3 h-48 overflow-y-auto rounded-lg border border-gray-800 bg-gray-950 p-2">
+        {/* カード一覧（横スクロール） */}
+        <div
+          ref={scrollRef}
+          className="mb-3 overflow-x-auto rounded-lg border border-gray-800 bg-gray-950 py-3 px-2"
+        >
           {filteredCards.length === 0 ? (
-            <div className="h-full flex items-center justify-center text-gray-600 text-sm">
+            <div className="h-28 flex items-center justify-center text-gray-600 text-sm px-4">
               該当するカードがありません
             </div>
           ) : (
-            <div className="grid grid-cols-[repeat(auto-fill,minmax(64px,1fr))] gap-2">
-              {filteredCards.map(card => (
+            <div className="flex gap-3 w-max">
+              {visibleCards.map(card => (
                 <div
                   key={card.cardId || card.cardName}
-                  className="flex flex-col items-center gap-1 cursor-pointer group"
+                  className="flex flex-col items-center gap-1 cursor-pointer group flex-shrink-0"
                   title={card.cardName}
                 >
                   {imgErrors.has(card.cardId) ? (
-                    <div className="w-16 h-22 bg-gray-800 border border-gray-700 rounded flex items-center justify-center text-gray-600 text-xs text-center p-1 leading-tight">
+                    <div className="w-16 h-24 bg-gray-800 border border-gray-700 rounded flex items-center justify-center text-gray-600 text-xs text-center p-1 leading-tight">
                       {card.cardName}
                     </div>
                   ) : (
@@ -84,6 +119,10 @@ const TopTab = () => {
                   </span>
                 </div>
               ))}
+              {/* センチネル: 末尾に近づいたら次の20件を読み込む */}
+              {hasMore && (
+                <div ref={sentinelRef} className="flex-shrink-0 w-8 h-28" />
+              )}
             </div>
           )}
         </div>
@@ -117,7 +156,7 @@ const TopTab = () => {
             </button>
           ))}
           <span className="text-gray-600 text-xs self-center ml-auto">
-            {filteredCards.length}件
+            {visibleCount} / {filteredCards.length}件
           </span>
         </div>
       </section>
