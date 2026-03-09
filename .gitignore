@@ -13,6 +13,7 @@ dist-ssr
 *.local
 .env
 SPEC.md
+CLAUDE.md
 src/data/cards_raw.json
 
 # Editor directories and files
