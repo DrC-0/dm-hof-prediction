@@ -28,6 +28,11 @@ const TopTab = () => {
           カード検索
         </h2>
 
+        {/* カード一覧（仮） */}
+        <div className="mb-3 min-h-24 flex items-center justify-center text-gray-600 text-sm border-2 border-dashed border-gray-800 rounded-lg">
+          カード一覧（実装予定）
+        </div>
+
         {/* カード名入力 */}
         <input
           type="text"
@@ -56,11 +61,6 @@ const TopTab = () => {
               {filter}
             </button>
           ))}
-        </div>
-
-        {/* カード一覧（仮） */}
-        <div className="mt-3 min-h-24 flex items-center justify-center text-gray-600 text-sm border-2 border-dashed border-gray-800 rounded-lg">
-          カード一覧（実装予定）
         </div>
       </section>
 
