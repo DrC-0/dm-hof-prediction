@@ -1,53 +1,36 @@
 import { useAuth } from './hooks/useAuth';
-import { LoginButton, LogoutButton } from './components/auth/LoginButton';
+import LoginPage from './pages/LoginPage';
+import TopTab from './pages/TopTab';
+import Header from './components/layout/Header';
+import StatusBar from './components/layout/StatusBar';
+import Footer from './components/layout/Footer';
 
 function App() {
   const { user, loading } = useAuth();
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-        <p className="text-gray-500">読み込み中...</p>
+      <div className="min-h-screen bg-gray-950 flex items-center justify-center">
+        <div className="w-6 h-6 border-2 border-yellow-400 border-t-transparent rounded-full animate-spin" />
       </div>
     );
   }
 
-  return (
-    <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-4">
-      <div className="bg-white p-8 rounded-xl shadow-md text-center max-w-md w-full">
-        <h1 className="text-3xl font-bold text-blue-600 mb-6">
-          デュエマ殿堂予想バトル 🔮
-        </h1>
-        
-        {user ? (
-          <div className="space-y-4">
-            <div className="p-4 bg-green-50 text-green-700 rounded-lg border border-green-200">
-              <p className="font-bold">ログイン成功！</p>
-              <p className="text-sm mt-1">ようこそ、{user.displayName} さん</p>
-            </div>
-            
-            {/* ユーザーのアイコン画像がある場合は表示 */}
-            {user.photoURL && (
-              <img 
-                src={user.photoURL} 
-                alt="プロフィール" 
-                className="w-16 h-16 rounded-full mx-auto shadow-sm"
-              />
-            )}
+  if (!user) {
+    return <LoginPage />;
+  }
 
-            <div className="pt-4">
-              <LogoutButton />
-            </div>
-          </div>
-        ) : (
-          <div className="space-y-4">
-            <p className="text-gray-600 mb-4">
-              予想を投稿するにはログインしてください。
-            </p>
-            <LoginButton />
-          </div>
-        )}
-      </div>
+  return (
+    <div className="min-h-screen bg-gray-950 flex flex-col text-white">
+      <Header user={user} />
+      {/* TODO: useSeason で実際のシーズンデータを渡す */}
+      <StatusBar status="open" title="2026年3月 殿堂発表" deadline={new Date('2026-03-20T23:59:00')} />
+
+      <main className="flex-1 max-w-4xl w-full mx-auto px-4 py-6">
+        <TopTab />
+      </main>
+
+      <Footer />
     </div>
   );
 }

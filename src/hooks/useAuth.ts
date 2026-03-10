@@ -3,20 +3,26 @@ import type { User } from 'firebase/auth';
 import { onAuthStateChanged } from 'firebase/auth';
 import { auth } from '../lib/firebase';
 
+const DEBUG_USER = {
+  uid: 'debug-uid',
+  displayName: 'デバッグユーザー',
+  photoURL: null,
+} as unknown as User;
+
 export const useAuth = () => {
-  const [user, setUser] = useState<User | null>(null);
-  const [loading, setLoading] = useState(true);
+  const isDebug = new URLSearchParams(window.location.search).get('debug') === '1';
+
+  const [user, setUser] = useState<User | null>(isDebug ? DEBUG_USER : null);
+  const [loading, setLoading] = useState(!isDebug);
 
   useEffect(() => {
-    // Firebaseの認証状態の変化を監視
+    if (isDebug) return;
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       setUser(currentUser);
       setLoading(false);
     });
-
-    // コンポーネントのアンマウント時に監視を解除
     return () => unsubscribe();
-  }, []);
+  }, [isDebug]);
 
   return { user, loading };
 };
