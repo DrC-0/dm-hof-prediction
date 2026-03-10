@@ -1,12 +1,13 @@
 import { useState, useMemo, useEffect, useRef, useCallback } from 'react';
 import cardsRaw from '../data/cards_raw.json';
+import CardCanvas from '../components/search/CardCanvas';
 
 type RegulationFilter = '殿堂' | 'プレミアム殿堂' | '制限なし' | null;
 
 interface CardEntry {
   cardName: string;
   cardId: string;
-  imageUrl: string;
+  imageUrls: string[];
   civilization: string[];
   regulationStatus: string;
 }
@@ -103,20 +104,16 @@ const TopTab = () => {
                   title={card.cardName}
                 >
                   {imgErrors.has(card.cardId) ? (
-                    <div className="w-16 h-24 bg-gray-800 border border-gray-700 rounded flex items-center justify-center text-gray-600 text-xs text-center p-1 leading-tight">
+                    <div className="w-24 h-36 bg-gray-800 border border-gray-700 rounded flex items-center justify-center text-gray-600 text-xs text-center p-1 leading-tight">
                       {card.cardName}
                     </div>
                   ) : (
-                    <img
-                      src={card.imageUrl}
+                    <CardCanvas
+                      src={card.imageUrls[0]}
                       alt={card.cardName}
-                      className="w-16 rounded border border-gray-700 group-hover:border-yellow-500 transition-colors"
                       onError={() => setImgErrors(prev => new Set(prev).add(card.cardId))}
                     />
                   )}
-                  <span className="text-gray-500 text-xs text-center leading-tight line-clamp-2 w-16">
-                    {card.cardName}
-                  </span>
                 </div>
               ))}
               {/* センチネル: 末尾に近づいたら次の20件を読み込む */}
