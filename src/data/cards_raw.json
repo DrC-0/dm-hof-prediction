@@ -1,0 +1,1217 @@
+[
+  {
+    "cardName": "\"BC\" ヒット",
+    "cardId": "dmrp01-050",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp01-050.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd03-010.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy16-074.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "\"KNG\"メガヒット",
+    "cardId": "promoy19-051",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy19-051.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "\"不愛闘\"倶楽部",
+    "cardId": "dmrp18-087",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp18-087.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "\"切駆\"戦車 ネズギアス",
+    "cardId": "dmsp01-005",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsp01-005.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "\"罰怒\"ブランド 1st",
+    "cardId": "dmex04-043",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex04-043.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy16-021.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "\"罰怒\"ブランド Ltd.",
+    "cardId": "dmsd03-001",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd03-001.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "\"罰星怒\"ブランド",
+    "cardId": "dmrp18-005",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp18-005.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "\"逆悪襲\"ブランド",
+    "cardId": "dm22rp1-TR9",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm22rp1-TR9.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm24ex4-026.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex17-038.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "\"麗片禅\"戦車 バッドラマー",
+    "cardId": "dm22ex1-031",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm22ex1-031.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻キューギョドリ/*",
+    "cardId": "dmrp12-020",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp12-020.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy18-076.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻ケルベロック/*",
+    "cardId": "dmbd12-k03",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-k03.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-030.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp09-018.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd09-008.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy18-001.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy18-013.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻コビトロ/*",
+    "cardId": "dmbd12-l06",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-l06.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp10-076.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻サンドロニア/*",
+    "cardId": "dmrp11-079",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp11-079.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp21-T18.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp21-TF18.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp22-T18.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp22-TF18.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻スパイアル/*",
+    "cardId": "dmsd09-006",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd09-006.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻ニャミバウン/*",
+    "cardId": "dmbd12-g13",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-g13.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-047.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp09-040.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd09-013.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy18-003.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻ピンドメタル/*",
+    "cardId": "dmbd12-g02",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-g02.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻ポコピー/*",
+    "cardId": "dmrp11-043",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp11-043.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy18-051.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻ムクチューン/*",
+    "cardId": "dmbd12-g03",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-g03.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/弐幻ヤマガエシ/*",
+    "cardId": "dmex07-036",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex07-036.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/肆幻ウナバレズ/*",
+    "cardId": "dmbd12-h02",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-h02.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp10-020.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/肆幻ノビアミール/*",
+    "cardId": "dmrp10-043",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp10-043.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/肆幻フィッパード/*",
+    "cardId": "dmex05-071",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-071.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp09-075.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd09-016.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/肆幻モドピトテ/*",
+    "cardId": "dmex05-049",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-049.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp09-042.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd09-014.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/肆幻ヨナビクニ/*",
+    "cardId": "dmbd12-l01",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-l01.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd09-005.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/陸幻スルニャン/*",
+    "cardId": "dmbd12-k04",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-k04.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-048.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp09-041.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/零幻チュパカル/*",
+    "cardId": "dmbd12-k05",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-k05.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-073.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex19-061.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp09-077.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd09-017.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/零幻トリムナー/*",
+    "cardId": "dmex05-008",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-008.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd09-007.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/零幻ノギューゾ/*",
+    "cardId": "dmex19-044",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex19-044.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "*/零幻ルタチノ/*",
+    "cardId": "dmbd12-h05",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd12-h05.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-072.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp09-076.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "1000KAI-如来参式 / GEKIRYU-O凱在-獣式",
+    "cardId": "dm25ex4-SPR15",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex4-SPR15a.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "10月",
+    "cardId": "dmx22b-010",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmx22b-010.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "11月",
+    "cardId": "dmx22b-011",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmx22b-011.jpg"
+    ],
+    "civilization": [
+      "闇"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "12月",
+    "cardId": "dmx22b-012",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmx22b-012.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "13番目の計画 / サファイア・ミスティ",
+    "cardId": "dm23ex2-Cho020",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23ex2-Cho020a.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex4-T03a.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex18-019a.jpg"
+    ],
+    "civilization": [
+      "水",
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "1、2、3、チームボンバーイェー！",
+    "cardId": "dmrp13-051",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp13-051.jpg"
+    ],
+    "civilization": [
+      "光",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "201式-銅鑼GOON",
+    "cardId": "dm25rp1-025",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp1-025.jpg"
+    ],
+    "civilization": [
+      "光",
+      "火",
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "20thSP じーさん",
+    "cardId": "dm23rp1-T4",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp1-T4.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp1-TF4.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy20-039.jpg"
+    ],
+    "civilization": [
+      "光",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "750男",
+    "cardId": "dm28-054",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm28-054.jpg"
+    ],
+    "civilization": [
+      "闇"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "AND・スパーク",
+    "cardId": "dmex08-234",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex08-234.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex13-044.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy24-046.jpg"
+    ],
+    "civilization": [
+      "光"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "ANZENカプセル",
+    "cardId": "dmbd11-e04",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmbd11-e04.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp11-062.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "AQ NETWORK",
+    "cardId": "dm22rp1-012",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm22rp1-012.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm22rp1-12A.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-TF01.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp4-T01.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "AQcess",
+    "cardId": "dm22rp2-033",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm22rp2-033.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm22rp2x-033.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "AQreplay / 伝説チャンス",
+    "cardId": "dm24ex4-086",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm24ex4-086a.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm24ex4-PR046a.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy23-125a.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "AQrotation",
+    "cardId": "dm25ex3-079",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-079.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp3-074.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "AQsabbath / ♪このギター グシャっとすれば グシャっとなる",
+    "cardId": "dm23sd3-012",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23sd3-012a.jpg"
+    ],
+    "civilization": [
+      "水",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "AQventure",
+    "cardId": "dm23rp4-058",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp4-058.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp4x-058.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "AQvibrato",
+    "cardId": "dm23rp2-059",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp2-059.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp2x-059.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23sd3-015.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm24ex2-Cho043.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "ARA結-510",
+    "cardId": "dm25rp4-076",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp4-076.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp4-Sec24.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "ARC REALITY COMPLEX",
+    "cardId": "dm25ex3-OR1",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-OR1.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp3-OR1.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp3-Sec01.jpg"
+    ],
+    "civilization": [
+      "光",
+      "水",
+      "闇"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "ARIGATO-MEGAHIT!",
+    "cardId": "dmrp11-056",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp11-056.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "ARTIFICIAL REALITY CHARGER",
+    "cardId": "dm25ex3-rp3003",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-rp3003.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-rp3Sec13.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp3-003.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp3-Sec13.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "ASAPプライオリス",
+    "cardId": "dmrp14-014",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp14-014.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "A・A・A",
+    "cardId": "dmrp20-029",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp20-029.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy20-021.jpg"
+    ],
+    "civilization": [
+      "水",
+      "闇",
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "A・コヤガイ",
+    "cardId": "dmr18-052",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr18-052.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "A・ザラシー",
+    "cardId": "dmr21-066",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr21-066.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "A・フェックス",
+    "cardId": "dm25rp2-056",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp2-056.jpg"
+    ],
+    "civilization": [
+      "光"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "B.F.F. モーメント",
+    "cardId": "dm23bd7-033",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23bd7-033.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23sd3-004.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm24bd5-023.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp19-015.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy22-036.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BAKUOOON <5000GT.Star>",
+    "cardId": "dmrp19-s04",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp19-s04.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BAKUOOON・ミッツァイル",
+    "cardId": "dm23ex2-ChoG005",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23ex2-ChoG005.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex05-s08.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex17-Cho35.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp09-s09.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy18-059.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BAKURYU-厳磁XX",
+    "cardId": "dm25ex3-rp2010",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-rp2010.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp2-010.jpg"
+    ],
+    "civilization": [
+      "火",
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BARUGA-猿蒸86",
+    "cardId": "dm25rp1-075",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp1-075.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp1-Sec24.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BARUGA-雷増88",
+    "cardId": "dm25ex3-rp2005",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-rp2005.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp2-005.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BARUGA-雷座87",
+    "cardId": "dm25ex3-023",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-023.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp2-021.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BAZAGA-善鐘42",
+    "cardId": "dm25rp2-073",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp2-073.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BIRIBIRIII・ビリー",
+    "cardId": "dmrp14-001",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp14-001.jpg"
+    ],
+    "civilization": [
+      "光"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BOLSHA9-銅鑼-5",
+    "cardId": "dm25ex4-011",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex4-011.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BUCKET-化決闘372",
+    "cardId": "dm25rp2-044",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp2-044.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BUNBUN・ヴァイカー",
+    "cardId": "dmex17-063",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex17-063.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp11-026.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "BUTAA！チャットBB",
+    "cardId": "dmex09-018",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex09-018.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "Black Lotus",
+    "cardId": "dmex08-020",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex08-020.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex18-s01.jpg"
+    ],
+    "civilization": [
+      "ゼロ"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "C-boy 切札勝太",
+    "cardId": "dmr08s-003",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr08s-003.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmx12b-017.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmx25-041.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy11-023.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "C.A.P. アアルカイト",
+    "cardId": "dmex19-m27",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex19-m27.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp10-m01.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "C.A.P. カイト",
+    "cardId": "promoy18-024",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy18-024.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "C.A.P. センサー",
+    "cardId": "dmsd11-006",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmsd11-006.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "C.W.テラス",
+    "cardId": "dmrp07-052",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp07-052.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "CAPTEEEN ＜ヘビポ.Star＞",
+    "cardId": "dmex16-091",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex16-091.jpg"
+    ],
+    "civilization": [
+      "光",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "CATWAE・ネコボン",
+    "cardId": "dmrp12-054",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp12-054.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "CLIMAX-ARMOR!",
+    "cardId": "dmrp12-028",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp12-028.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "COMPLEX VORTEX",
+    "cardId": "promoy22-073",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy22-073.jpg"
+    ],
+    "civilization": [
+      "闇"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "CRYMAX ジャオウガ",
+    "cardId": "dm23bd3-002",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23bd3-002.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23bd7-011.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp4-SP1.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp4x-SP1.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex2-ChoG01.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp22-2B.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp22-KM2.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy23-068.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy23-071.jpg"
+    ],
+    "civilization": [
+      "闇"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "CanCam",
+    "cardId": "dmex08-040",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex08-040.jpg"
+    ],
+    "civilization": [
+      "光"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "Celeb k’Reine",
+    "cardId": "dm25ex3-rp2001",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex3-rp2001.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25rp2-001.jpg"
+    ],
+    "civilization": [
+      "光"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "Code:-MAX",
+    "cardId": "dmrp21-2A",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp21-2A.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp21-4B.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp21-S2.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "Code:1500",
+    "cardId": "dmrp19-003",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp19-003.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "Code:1500 <アダム.Star>",
+    "cardId": "dmrp19-a05",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp19-a05.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp19-b05.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp19-s02.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "Code：1059",
+    "cardId": "dmex19-m31",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex19-m31.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmrp11-m02.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D-Jealousy-灰撫 / ♪五本まで 集めて林 森ジャングル",
+    "cardId": "dm23bd6-018",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23bd6-018a.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm23rp1-002a.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2-V禁断のボルトロン",
+    "cardId": "dmd31-001",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmd31-001.jpg"
+    ],
+    "civilization": [
+      "闇",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2B バブール",
+    "cardId": "dmr22-s03",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr22-s03.jpg"
+    ],
+    "civilization": [
+      "自然"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2G ゴッドファーザー",
+    "cardId": "dmr21-s04",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr21-s04.jpg"
+    ],
+    "civilization": [
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2J ジェルヴィス",
+    "cardId": "dmr22-s01",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr22-s01.jpg"
+    ],
+    "civilization": [
+      "光"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2K ジゴクシヴァク",
+    "cardId": "dmr21-s03",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr21-s03.jpg"
+    ],
+    "civilization": [
+      "闇"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2M マグラカヅラ",
+    "cardId": "dmr22-s08",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr22-s08.jpg"
+    ],
+    "civilization": [
+      "闇",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2M2 ドグライーター",
+    "cardId": "dmr23-s09",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr23-s09.jpg"
+    ],
+    "civilization": [
+      "闇",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2P ヘビーポップ",
+    "cardId": "dm25ex2-Cho003",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex2-Cho003.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmex08-105.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr21-s01.jpg"
+    ],
+    "civilization": [
+      "光"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2R2 邪眼のブラックオーバー",
+    "cardId": "dm25ex4-008",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dm25ex4-008.jpg"
+    ],
+    "civilization": [
+      "闇"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2S 皇帝ワルスラ",
+    "cardId": "dmr21-s02",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr21-s02.jpg"
+    ],
+    "civilization": [
+      "水"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2V ヴァインズ",
+    "cardId": "dmx23-037",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmx23-037.jpg",
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy15-027.jpg"
+    ],
+    "civilization": [
+      "闇",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2V ヴェンデッタ",
+    "cardId": "promoy15-014",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/promoy15-014.jpg"
+    ],
+    "civilization": [
+      "闇",
+      "火"
+    ],
+    "regulationStatus": "none"
+  },
+  {
+    "cardName": "D2V2 禁断のギガトロン",
+    "cardId": "dmr21-s09",
+    "imageUrls": [
+      "https://dm.takaratomy.co.jp/wp-content/card/cardimage/dmr21-s09.jpg"
+    ],
+    "civilization": [
+      "闇",
+      "火"
+    ],
+    "regulationStatus": "none"
+  }
+]

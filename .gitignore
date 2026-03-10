@@ -14,7 +14,6 @@ dist-ssr
 .env
 SPEC.md
 CLAUDE.md
-src/data/cards_raw.json
 
 # Editor directories and files
 .vscode/*
